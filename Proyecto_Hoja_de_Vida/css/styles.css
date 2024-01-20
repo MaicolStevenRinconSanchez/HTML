@@ -1,0 +1,141 @@
+body    {
+    margin: 3px;
+}
+
+.circle{    
+    border-radius: 50%;
+    width: 170px;
+}
+table{  
+    background-color: rgb(215, 235, 226);
+    
+    width: 100%;
+    
+    
+}
+.pepito{    
+
+    text-align: center;
+    
+}
+
+.center {
+    text-align: center;
+   
+}
+.campuslands{  
+    margin-top: 15px;
+    margin: center;
+    
+    border-radius: 50%;
+    width: 95% ;
+
+}
+
+
+.pepita{
+        
+    text-align: center;
+    width: 400px;
+    padding:   0 0 0px 5%;
+    
+}
+.pepe{
+    border: 4px solid rgb(234, 165, 142);
+    padding: 0 0 0 10%;
+    border-bottom: 1;
+    border-top: 1;
+    border-left: 0;
+    border-right: 0;
+}
+.juana{
+    width: 33%;
+    font-style: italic;
+    font-size: 17px;
+    line-height: 15px;
+
+} 
+
+.location{  
+    
+    align-items: center;
+    text-align: center;
+    width: 20px;
+    
+}
+
+.juanset{
+    font-size: 14px;
+    margin: auto;
+    width: 110%;
+    text-align: left;
+}
+.container  {
+    width: 33%;
+}
+.Academico{
+    border:3px solid rgb(128, 224, 238);
+    text-align: center;
+    border-bottom: 1;
+    border-top: 1;
+    border-left: 0;
+    border-right: 0;
+
+}
+.rem{   
+    width: 33%;
+}
+.Proyecto{
+    
+    border:3px solid rgb(154, 218, 246);
+    text-align: center;
+    padding: 0 0 0 10%;
+    border-bottom: 1;
+    border-top: 1;
+    border-left: 0;
+    border-right: 0;
+
+}
+.Empresarial{   
+    border:3px solid rgb(154, 218, 246);
+    text-align: center;
+    padding: 0 0 0 10%;
+    border-bottom: 1;
+    border-top: 1;
+    border-left: 0;
+    border-right: 0;
+}
+.Contactos{ 
+    border:3px solid rgb(154, 218, 246);
+    text-align: center;
+    padding: 0 0 0 10%;
+    border-bottom: 1;
+    border-top: 1;
+    border-left: 0;
+    border-right: 0;
+}
+.Habilidades{   
+    border:3px solid rgb(154, 218, 246);
+    text-align: center;
+    padding: 0 0 0 10%;
+    border-bottom: 1;
+    border-top: 1;
+    border-left: 0;
+    border-right: 0;
+}
+.email  {   
+    align-items: center;
+    text-align: center;
+    width: 20px;
+    
+}
+.gith{   
+    align-items: center;
+    text-align: center;
+    width: 20px;
+}
+.lin{   
+    align-items: center;
+    text-align: center;
+    width: 20px;
+}
